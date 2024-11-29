@@ -222,7 +222,7 @@ TaskNinja is easy to install using the following commands:
 - [ ] **Go Install**
   ```bash
   GO111MODULE=on
-  go install github.com/RikunjSindhwad/Task-Ninja@latest
+  go install github.com/RikunjSindhwad/Task-Ninja/v2@latest
   ```
 - [ ] Build
   ```bash
